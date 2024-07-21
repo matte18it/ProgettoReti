@@ -1,13 +1,14 @@
-# Sviluppo di una rete usando GNS3
+# 🌐 Sviluppo di una rete usando GNS3 🌐
 Il progetto consiste nello sviluppo e simulazione di una rete locale (Firewalling+routing+configurazione) utilizzando GNS3. 
 La traccia del mio progetto è la seguente:<br>
 <div align="center">
   <img src="https://github.com/matte18it/ProgettoReti/blob/main/Traccia.png" alt="Traccia Progetto">
 </div>
 
-# Specifiche
+# 📁 Specifiche 📁
+Le specifiche del progetto sono le seguenti:
 
-# Configurazione TAP
+# 🛜 Configurazione TAP 🛜
 Il Tap è stato configurato attraverso il seguente script (da eseguire sulla macchina locale non su GNS3):
 ```shell
 # Installazione pacchetti utili
@@ -36,5 +37,5 @@ sysctl -w net.ipv4.ip_forward=1
 route add -net xxx.xxx.xxx.xxx/x gw xxx.xxx.xxx.xxx dev tap0
 ```
 
-# Disclaimer
+# ❗️ Disclaimer ❗️
 Questo progetto è stato sviluppato come parte del corso "Fondamenti di Reti e Sicurezza Informatica" presso il Dipartimento di Matematica e Informatica (DeMaCS) dell'Università della Calabria. Essendo un lavoro universitario, potrebbe contenere qualche errore o imprecisione. Accolgo con piacere qualsiasi feedback e suggerimento per migliorare! Grazie per la comprensione e il supporto.
