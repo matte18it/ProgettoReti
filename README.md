@@ -4,9 +4,7 @@ La traccia del mio progetto è la seguente:<br>
 <div align="center">
   <img src="https://github.com/matte18it/ProgettoReti/blob/main/Traccia.png" alt="Traccia Progetto">
 </div>
-
-# 📁 Specifiche 📁
-Le specifiche del progetto sono disponibili qua: [Specifiche Progetto GNS3](https://github.com/matte18it/ProgettoReti/blob/main/SpecificheProgettoGNS3.pdf)
+Le specifiche del progetto sono disponibili al seguente link: [Specifiche Progetto GNS3](https://github.com/matte18it/ProgettoReti/blob/main/SpecificheProgettoGNS3.pdf)
 
 # 🛜 Configurazione TAP 🛜
 Il Tap è stato configurato attraverso il seguente script (da eseguire sulla macchina locale non su GNS3):
