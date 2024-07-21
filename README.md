@@ -6,8 +6,7 @@ La traccia del mio progetto è la seguente:<br>
 </div>
 
 # 📁 Specifiche 📁
-Le specifiche del progetto sono le seguenti:<br>
-[embed]https://github.com/matte18it/ProgettoReti/blob/main/SpecificheProgettoGNS3.pdf[/embed]
+Le specifiche del progetto sono disponibili qua: ![Specifiche Progetto GNS3](https://github.com/matte18it/ProgettoReti/blob/main/SpecificheProgettoGNS3.pdf)
 
 # 🛜 Configurazione TAP 🛜
 Il Tap è stato configurato attraverso il seguente script (da eseguire sulla macchina locale non su GNS3):
