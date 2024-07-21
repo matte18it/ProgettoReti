@@ -7,6 +7,7 @@ La traccia del mio progetto è la seguente:<br>
 
 # Specifiche
 
+# Configurazione TAP
 Il Tap è stato configurato attraverso il seguente script (da eseguire sulla macchina locale non su GNS3):
 ```shell
 # Installazione pacchetti utili
